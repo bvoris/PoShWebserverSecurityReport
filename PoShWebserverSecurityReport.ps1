@@ -1,9 +1,10 @@
-﻿#PowerShell Webserver Security Report
+#PowerShell Webserver Security Report
 #Written by Brad Voris
 #Version 1.0
+# Change the domain name to the name of the domain you are testing
 
 #Get URL
-$URL = "www.cyberforgesecurity.com"
+$URL = "www.DOMAINNAMEHERE.com"
 $URL
 
 #Get Server Response and Headers
