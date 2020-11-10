@@ -2,6 +2,13 @@
 PowerShell Webserver Security Report<br />
 Created By: Brad Voris<br /><br />
 Version: 1.2<br />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShWebserverSecurityReport">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShWebserverSecurityReport">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoShWebserverSecurityReport/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/PoShWebserverSecurityReport">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PoShWebserverSecurityReport">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PoShWebserverSecurityReport">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoShWebserverSecurityReport">
 Overview:<br />
 This PowerShell Script scans a website for configuration information and some basic known vulnerabilities<br />
 Performs the following tests on a webserver<br />
@@ -17,16 +24,10 @@ Validates if vulnerable URLs exist and are accessible to the internet<br /><br /
 Generates a report located here:<br />
 C:\temp\PoSh-Security-Report-$URL.html<br />
 This is a early work in progress.<br />
-<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShWebserverSecurityReport">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShWebserverSecurityReport">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoShWebserverSecurityReport/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/PoShWebserverSecurityReport">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PoShWebserverSecurityReport">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PoShWebserverSecurityReport">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoShWebserverSecurityReport">
+
 
 <br /><br />
-I am not responsible for how you use this! Use this at your own risk!
+I am not responsible for how you use this! Use this at your own risk!<br />
 Sample Report:<br />
 <IMG SRC="https://github.com/bvoris/PoShWebserverSecurityReport/blob/master/screenshot12.PNG">
 <br />
