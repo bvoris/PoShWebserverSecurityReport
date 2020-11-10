@@ -9,6 +9,7 @@ Version: 1.2<br />
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoShWebserverSecurityReport">
+<br />
 Overview:<br />
 This PowerShell Script scans a website for configuration information and some basic known vulnerabilities<br />
 Performs the following tests on a webserver<br />
