@@ -1,6 +1,6 @@
 # PoShWebserverSecurityReport
 PowerShell Webserver Security Report<br />
-Created By: Brad Voris<br />
+Created By: Brad Voris<br /><br />
 
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShWebserverSecurityReport">
@@ -10,10 +10,11 @@ Created By: Brad Voris<br />
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoShWebserverSecurityReport">
 
+<br /><br />
 I am not responsible for how you use this! Use this at your own risk!
-
-WARNING: Early work in progress
-
+Sample Report:<br />
+<IMG SRC="https://github.com/bvoris/PoShWebserverSecurityReport/blob/master/screenshot12.PNG">
+<br />
 Performs the following tests on a webserver<br />
 Validates if TCP ports 21, 22, 53, 80, 443, 8080<br />
 Gets HTTP Response Headers<br />
