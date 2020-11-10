@@ -13,7 +13,7 @@ Version: 1.2<br />
 Overview:<br />
 This PowerShell Script scans a website for configuration information and some basic known vulnerabilities<br />
 Performs the following tests on a webserver<br />
-Validates if TCP ports 21, 22, 53, 80, 443, 8080<br />
+Validates if TCP ports 21, 22, 53, 80, 443, 8080 are open<br />
 Gets HTTP Response Headers<br />
 Gets Certificate information<br />
 Gets robots.txt data<br />
