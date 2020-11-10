@@ -1,6 +1,6 @@
 # PoShWebserverSecurityReport
 PowerShell Webserver Security Report<br />
-Created By: Brad Voris<br /><br />
+Created By: Brad Voris<br />
 Version: 1.2<br />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShWebserverSecurityReport">
