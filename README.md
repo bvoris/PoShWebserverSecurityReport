@@ -1,4 +1,5 @@
 # PoShWebserverSecurityReport
+<br />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoShWebserverSecurityReport/total">
