@@ -1,7 +1,4 @@
 # PoShWebserverSecurityReport
-PowerShell Webserver Security Report<br />
-Created By: Brad Voris<br />
-Version: 1.2<br />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PoShWebserverSecurityReport">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PoShWebserverSecurityReport/total">
@@ -11,6 +8,10 @@ Version: 1.2<br />
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PoShWebserverSecurityReport">
 <br />
 Overview:<br />
+PowerShell Webserver Security Report<br />
+Created By: Brad Voris<br />
+Version: 1.2<br />
+
 This PowerShell Script scans a website for configuration information and some basic known vulnerabilities<br />
 Performs the following tests on a webserver<br />
 Validates if TCP ports 21, 22, 53, 80, 443, 8080 are open<br />
